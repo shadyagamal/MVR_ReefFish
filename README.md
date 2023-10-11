@@ -1,5 +1,5 @@
 # Let's learn about some nice fishes !
-![](https://github.com/shadyagamal/MVR_ReefFish/edit/main/fish.gif)
+![](https://github.com/shadyagamal/MVR_ReefFish/blob/main/fish.gif)
 
 
 ### Data access
