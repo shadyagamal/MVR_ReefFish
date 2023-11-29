@@ -17,3 +17,6 @@ Size-classes of total fish length (from snout to tip of tail, or longest distanc
 GPS location, date, time, depth and visibility are also recorded.
 
 
+
+
+Forward environment variable selection: all are significative except VBN (average boat detection), PDEN (population density) and CROP (density of cropland)
