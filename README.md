@@ -20,3 +20,4 @@ GPS location, date, time, depth and visibility are also recorded.
 
 
 Forward environment variable selection: all are significative except VBN (average boat detection), PDEN (population density) and CROP (density of cropland)
+New: FE + DHW + SST + PH + DEPTH + O2 + PO4 + SCV + SSS + BATHY + LAND + NO3 + SPM  (No CHL, VBD, CROP, PDEN and URBA)
